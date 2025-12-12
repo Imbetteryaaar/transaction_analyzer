@@ -1,0 +1,11 @@
+transaction_id,date,description,amount,category,account
+t1,1/10/2025,ACME Supermarket,-45.2,Groceries,Card 1234
+t2,2/10/2025,Acme Salary,2500,Salary,Bank Account
+t3,5/10/2025,Star Cafe,-6.5,Food,Card 1234
+t4,10/10/2025,Electricity Co,-120.3,Utilities,Bank Account
+t5,15/10/2025,Mobile Recharge,-15,Utilities,Card 1234
+t6,2/11/2025,ACME Supermarket,-62.75,Groceries,Card 1234
+t7,12/11/2025,Unknown Merchant,-700,Unknown,Card 5678
+t8,15/11/2025,Refund  Acme,30,Refund,Card 1234
+t9,20/11/2025,Star Cafe,-7.5,Food,Card 1234
+t10,25/11/2025,Large Transfer,-5000,Transfer,Bank Account
